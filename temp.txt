@@ -1,2 +1,4 @@
 Test file commit, add, push and pull
 
+Edited
+Now test pull
